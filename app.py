@@ -5,7 +5,7 @@ import numpy as np
 def main():
     html_temp = """
     <div style="background-color:lightblue;padding:16px">
-    <h2 style="color:black";text-align:center> House Price Prediction</h2>
+    <h2 style="color:black";text-align:center> House Rent Prediction</h2>
     </div>
     
     """
